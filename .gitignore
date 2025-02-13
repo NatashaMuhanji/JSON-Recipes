@@ -10,7 +10,7 @@ logs/
 
 #file
 solution.js
-solution.ejs
+views/solution.ejs
 
 # Dependency directories
 jspm_packages/
